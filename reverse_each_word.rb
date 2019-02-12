@@ -1,4 +1,4 @@
-pizza = ("Im so hungry, I wonder what lunch is")
+pizza.reverse = ("Im so hungry, I wonder what lunch is")
 
 def lunch = (pizza)
   lunch.each do |pizza|
